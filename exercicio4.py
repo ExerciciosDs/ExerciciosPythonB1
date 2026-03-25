@@ -1,0 +1,6 @@
+precocarro = float(input("Digite o preço do carro: "))
+print("O preço do carro é: R$", precocarro)
+print("O preço imposto fica: R$", precocarro*0.45)
+print("O preço do carro com o imposto, fica: R$", precocarro*1.45)
+print("O lucro do vendedor fica: R$", precocarro*1.45*0.12)
+print("O preço final do carro fica: R$", precocarro*1.45*1.12)
