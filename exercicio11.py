@@ -17,5 +17,3 @@ while fechar != True:
         else:
             print("Senha incorreta! Você tem mais ",tentativa," tentativas.")
             senha = input("Digite sua senha: ")
-    
-        

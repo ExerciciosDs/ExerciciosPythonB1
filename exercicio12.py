@@ -19,7 +19,6 @@ while nota != -1:
         
     nota = int(input("Digite uma nota: "))
     
-    
 if contador != 0:
     mediaFinal = total / contador
 
